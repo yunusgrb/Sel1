@@ -7,6 +7,8 @@ public class Ornek1 {
         System.out.println("merhaba 2");
 
         System.out.println("merhaba 3");
+
+        System.out.println("yenı 1");
     }
 
 }
