@@ -5,6 +5,8 @@ public class Ornek1 {
         System.out.println("merhaba dünya");
 
         System.out.println("merhaba 2");
+
+        System.out.println("merhaba 3");
     }
 
 }
